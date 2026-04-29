@@ -11,7 +11,7 @@ const elPlanets = Array.from(document.querySelectorAll('[data-planet]')).
     acc[planet] = el;
 
     return acc;
-  }, {});
+  }, {}); 
 
 const planetKeys = Object.keys(elPlanets);
 
