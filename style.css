@@ -165,7 +165,7 @@ h1, h2 {
 }
 .planet[data-active] .planet-figure {
   opacity: 1;
-}
+} 
 
 /* ---------------------------------- */
 #app {
