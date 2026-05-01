@@ -29,6 +29,7 @@ It is a beginner-friendly front-end project.
 - Largest planet: Jupiter
 - Hottest planet: Venus
 
+<div align="center">
 [![Explore Now](https://img.shields.io/badge/🚀%20Play%20Now-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://2dsystem.vercel.app/)
 
 made by Hridesh-Thakur
