@@ -1,19 +1,24 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
-  <title>Solar System Planet | @Hridesh-Thakur</title>
+  <title>Solar System Planet Picker Keyframe Animation | @Hridesh-Thakur</title>
   <link rel="stylesheet" href="https://public.codepenassets.com/css/normalize-5.0.0.min.css">
   <link rel='stylesheet' href='https://unpkg.com/splitting@1.0.6/dist/splitting.css'>
   <link rel="stylesheet" href="./style.css">
+
 </head>
-<body> 
-  
+
+<body>
   <div id="app" data-current-planet="mercury">
+
     <nav class="planet-nav">
       <svg viewBox="0 20 400 400" xmlns="http://www.w3.org/2000/svg">
 
+        <!--       <defs> -->
         <path id="navPath" d="M10,200 C30,-28 370,-28 390,200" fill="none" />
+        <!--       </defs> -->
 
         <text>
           <textPath href="#navPath" startOffset="0" font-size="10">
@@ -37,7 +42,7 @@
         <p class="planet-description">Tiny and close to the sun.</p>
       </div>
 
-      <div class="planet-details">
+      <!-- <div class="planet-details">
         <div class="detail" data-detail="tilt" data-postfix="°">
           3.13
         </div>
@@ -47,7 +52,7 @@
         <div class="detail" data-detail="hours">
           10
         </div>
-      </div>
+      </div> -->
 
       <figure class="planet-figure">
         <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-1188/1_mercury.jpg" />
@@ -197,7 +202,7 @@
       <div class="planet-title">
         <h1>Neptune</h1>
         <p class="planet-description">A planet for pirates; just narrowly made the cut when scientists decided nine
-          There were too many planets.</p>
+          planets was too many.</p>
       </div>
 
       <!-- <div class="planet-details">
@@ -221,4 +226,3 @@
 </body>
 
 </html>
-
