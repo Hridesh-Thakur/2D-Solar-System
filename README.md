@@ -1,3 +1,6 @@
+
+<div align="center">
+  
 # 2D Solar System
 
 
