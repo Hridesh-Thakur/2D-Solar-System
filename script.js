@@ -1,4 +1,4 @@
-// Javascript heree
+// Javascript here
 console.clear();
 
 Splitting({ target: '.planet-title h1', by: 'chars' });
