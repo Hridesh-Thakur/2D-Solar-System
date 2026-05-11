@@ -1,6 +1,7 @@
           
 # 2D Solar System
 
+
 A simple 2D Solar System project made using HTML, CSS, and JavaScript.
 
 ## About Project
